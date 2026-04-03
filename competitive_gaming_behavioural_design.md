@@ -44,9 +44,24 @@ The emotional ecology of play is the intersection of feelings and human emotions
 
 A core difference between Team Fortress 2 and Overwatch: in the past, TF2 centred and legitimised the server browser as the default mode of play, while Overwatch has centred and legitimised matchmaking as the default since the beginning.
 
-Team Fortress 2 once centred public servers (essentially, custom games) as its main form of engagement with the game, which created a low-pressure environment. 
-A number of years ago, Team Fortress 2 introduced matchmaking, but for many players, this only serves as an extra layer of UI that needs to be bypassed in order to access their true destination servers in the server browser. 
+Team Fortress 2 once centred public servers (persistent populated custom games) as its main form of engagement with the game, which created a low-pressure environment. 
+A number of years ago, Team Fortress 2 introduced matchmaking, but for many players, this only serves as an extra layer of UI that needs to be bypassed in order to access their true destination servers in the server browser.
 
 It's completely normal for players to dip in and out of persistent servers at any time: the fight has been going before you got there, and will continue after you leave.
 
 With community servers and a lot of custom games, there is generally no obligation to play for the objective: many players treat the game as a team deathmatch sandbox where the objective is secondary. 
+
+Despite our treating the map as a sandbox, the objective is what makes the game feel alive, even if it's not our primary focus. If it was a skirmish with no objectives, would we care enough to stick around?
+
+### The problem statement
+
+Overwatch centres matchmaking, particularly Quick Play and Competitive, as its main form of engagement with the game, and hides public servers in the "Custom Games" section of the game menu. 
+
+Custom games are treated as third-class, Arcade mode as second-class, and Unranked and Competitive are treated as first-class modes. 
+
+The core tension is that there are players with conflicting goals playing Unranked: some players treat it as "Competitive without the sweat", while other players treat it as an unstructured, experimental sandbox to try new things, learn the game, and learn hero and map affordances in a more chilled-out environment.
+
+You get the "It’s just Quick Play" phenomenon because nobody knows exactly what Quick Play is, so people with conflicting opinions aggressively force their own ideas of what it is on everybody else. 
+
+Since Quick Play is not Competitive, everybody is objectively valid in their idea of what Quick Play is, and this creates one of the central tensions explored here. 
+
