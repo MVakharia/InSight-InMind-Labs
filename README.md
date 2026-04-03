@@ -1,6 +1,6 @@
 # InSight InMind Labs
 
-This is an exploratory space for **ideas**, **drafts**, **notes**, **prototypes**, **early-stage frameworks**, and **conceptual seeds** that need more work before making it into public-facing environments. 
+This repository is an **exploratory space** for a **behavioural design research lab**. It'll contain **ideas**, **drafts**, **notes**, **prototypes**, **early-stage frameworks**, and **conceptual seeds** that need more work before making it into the public-facing areas of the lab. 
 
 **Main site: https://insightinmindlabs.notion.site/**
 
@@ -9,6 +9,18 @@ Additional pages (**Carrd**, **Twitter**, **Bluesky**, **Wordpress**, **Ko-fi**,
 ## What this lab is
 
 InSight InMind Labs is an independent, **interdisciplinary research project** focused on **behavioural design**, **cognitive and environmental psychology**, and **Learning Sciences**. 
+
+Behavioural design focuses on **how the systems and environments around us influence our behaviour**, including what we pay **attention** to, how we make **decisions**, and **which actions feel easy or difficult**. When you **change the choices**, the available **options**, the **cues**, or adjust the amount of **friction** involved, you can **influence** the resulting behaviour. 
+
+The lab studies these dynamics across a range of environments, including:
+
+- **Multiplayer game** lobbies and server ecosystems
+- **Single-player game** worlds and progression systems
+- Classrooms, lecture halls, and other **real-life educational spaces**
+- **Digital education spaces**, including e-learning platforms
+- **Workplaces** and organisational environments
+
+...and any other context where design affects human behaviour.
 
 A central premise of the lab is that **attention**, **willpower**, and **motivation** are **finite, unstable resources**. They fluctuate with **context**, **energy**, **environment**, and **emotional** and **cognitive load**. It's because of this that systems that depend on people 'just trying harder' inevitably **fail**. 
 
