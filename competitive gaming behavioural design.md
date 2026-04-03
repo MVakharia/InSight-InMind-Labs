@@ -4,7 +4,7 @@
 
 27 March 2026
 
-The conceptual seed paper is done: you can read it [here.](https://github.com/MVakharia/InSight-InMind-Labs/blob/11a0cfa8ef682f4b0a119f62059663fa18864553/The%20erasure%20of%20unstructured%20play.pdf)
+The first version of the conceptual seed paper is done: you can read it [here.](https://github.com/MVakharia/InSight-InMind-Labs/blob/11a0cfa8ef682f4b0a119f62059663fa18864553/The%20erasure%20of%20unstructured%20play.pdf)
 
 ## Context
 
