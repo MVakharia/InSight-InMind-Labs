@@ -93,3 +93,56 @@ Structured unranked play creates an environment that is less conducive to learni
 
 ### Consequences
 
+Competitive matchmaking systems have quietly redefined the purpose of play: they have made play all about winning, when once it was for the purpose of having fun. 
+
+Every competitive matchmade game is now a casual or competitive electronic sport, depending on the mode you queue up for.
+
+Server browsers allow you to find play spaces where you choose the vibe you want, while competitive matchmaking places you into performative spaces and chooses the vibe for you. 
+
+The difference is in agency and discovery: player-led choice and discovery of servers, or matchmaker-led.
+
+Every match is framed as a test of skill, and the environment signals that the player’s job is to win.
+
+Since the system treats winning as the primary metric, players internalise this, which leads to toxicity when grouped with players that don’t treat winning in the same way that the system does. 
+
+Essentially, the system is designed to cue players to be toxic. 
+
+Overwatch’s structure reinforces that winning is progress, losses are wasted time, and your value is directly tied to your performance. This is at odds with the fact that even when you’re losing, you’re still learning.
+
+Unranked inherits the logic of competitive: regardless of the existence of SR, the matchmaking is still optimised for ‘fairness’, which is defined as ‘win probability’, not ‘fun probability’. 
+
+Experimentation and off-meta picks feel like team sabotage and identity expression becomes risky. 
+
+Competitive matchmaking removes player agency and collapses all motivations into "win or lose". 
+
+When the server browser is obscured or treated as second/third class, experimentation is hidden, along with persistent communities and the resulting social continuity.
+
+When a server browser isn’t centred, the only custom games that remain are usually non-standard, or you’re left with empty spaces, or ones that are inconsistent with how humans naturally function, for example, maps with AI-controlled bots or no adversaries at all. 
+
+Ultimately, competitive matchmaking punishes losing and discourages experimentation: winning is the only option left.
+
+In competitive matchmade environments, the player is taught to be compliant, adaptable, and performance oriented, not exploratory. 
+
+Every match creates a new social contract, every character choice is a negotiation instead of a truly free choice, and players are judging each other on performance. 
+
+Learning thrives mainly on repetition, stability, agency, low stakes, and identity safety. Competitive matchmaking removes or hinders them, drastically slowing the process but not eliminating it entirely. 
+
+Competitive matchmaking teaches compliance, performance, short-term adaptation, avoiding blame, the "correct" way to play, and risk-minimisation. 
+
+The system is optimised for fairness, but what players often need is growth. 
+
+Overwatch’s structure punishes learning. If you want to learn a hero, you have to fight the competitive matchmaker, your team’s expectations, the map rotation, the time constraints, and the social pressure: putting up that many fights is exhausting. 
+
+The system is actively hostile to experimentation, curiosity, skill development, and playful exploration. 
+
+Overall, this is why so many Overwatch players feel stuck, anxious, or frustrated: the environment is fundamentally misaligned with human learning. 
+
+Conversely, player-led competitive multiplayer games support:
+- Long-form experimentation with, and understanding of, a single character on a single map. 
+- Character exploration that is protective of the player’s identity
+- Social continuity (in community servers)
+- Emergent norms
+- Self-directed goals
+
+All of which are both more fun and more aligned with how humans actually work. 
+
