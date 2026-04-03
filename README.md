@@ -41,7 +41,7 @@ The goal is to design systems that **respect real cognitive limits** rather than
 I'm **Michael**, and I'm based in the **UK**. 
 
 My background spans:
-- IT, ATM, and EPOS (cash register PC) maintenance
+- IT, ATM, and EPOS (cash register PC) technician work
 - Unity and web development
 - Retail and courier work
 - Professional decluttering and organising
