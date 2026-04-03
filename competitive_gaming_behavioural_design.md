@@ -78,7 +78,7 @@ In structured unranked play, an Overwatch player may:
 - Feel that they aren’t "allowed" to play the game how they want, because the objective is to win
 - Not spend enough time on a map to learn the map, before being thrown back into the matchmaker to be sent to a different map
 
-In unstructured play done the way that TF2 has historically done it, an Overwatch player in an ideal world may:
+In unstructured play done the way that TF2 has historically done it, an Overwatch player may:
 - Avoid queues entirely. 
 Be able to enter a populated, ongoing game instantly on a map of their choosing - ‘drop-in, drop-out’ play - and not care if it’s ongoing, or if their team is losing or winning. 
 - Play on a map that never ends, or rotates every 90 minutes or more, with double or triple-length match timers
@@ -90,3 +90,6 @@ Structured unranked play creates an environment that is less conducive to learni
 - Learning happens more quickly when staying in one ongoing game, focusing on a single hero and a single map: when your attention is split between multiple heroes, maps, and servers, and you have to wait in queues, learning happens more slowly.
 - In unstructured games, you can worry less about satisfying the expectations of others: you can often just **be**. 
 - Persistent, community led servers may appear, and these servers have their own regulars, which players can hang out with.
+
+### Consequences
+
