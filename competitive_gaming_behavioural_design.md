@@ -29,14 +29,24 @@ The premise is that depending on the lobby, the following may change:
 - The sense of community and identity that players feel within a game
 - How players approach and engage in play, as well as how they behave, in any given server
 
-I'll explore how the game environment reshapes the above as well as the emotional ecology of play: that is, the intersection of feelings and human emotions, social cues, role expectations, and feedback loops that emerge between players, game mechanics, and the community culture. 
+I'll explore and look at:
 
-I'll explore the behaviours that a multiplayer environment enables, supports, or suppresses through its structural design.
+- How the game environment reshapes the above as well as the emotional ecology of play: 
+- The behaviours that a multiplayer environment enables, supports, or suppresses through its structural design.
+- The "It’s just Quick Play, don’t take it so seriously" phenomenon and why it happens.
+- How the culture around each game shapes its emotional ecology.
 
 The primary examples that will be used are Overwatch and Team Fortress 2, but other examples will also be used.
 
-I'll look at the "It’s just Quick Play, don’t take it so seriously" phenomenon and why it happens.
+The emotional ecology of play is the intersection of feelings and human emotions, social cues, role expectations, and feedback loops that emerge between players, game mechanics, and the community culture. 
 
-How does the culture around each game shape its emotional ecology?
+### Context
 
+A core difference between Team Fortress 2 and Overwatch: in the past, TF2 centred and legitimised the server browser as the default mode of play, while Overwatch has centred and legitimised matchmaking as the default since the beginning.
 
+Team Fortress 2 once centred public servers (essentially, custom games) as its main form of engagement with the game, which created a low-pressure environment. 
+A number of years ago, Team Fortress 2 introduced matchmaking, but for many players, this only serves as an extra layer of UI that needs to be bypassed in order to access their true destination servers in the server browser. 
+
+It's completely normal for players to dip in and out of persistent servers at any time: the fight has been going before you got there, and will continue after you leave.
+
+With community servers and a lot of custom games, there is generally no obligation to play for the objective: many players treat the game as a team deathmatch sandbox where the objective is secondary. 
