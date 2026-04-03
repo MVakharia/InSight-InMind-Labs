@@ -47,7 +47,7 @@ A core difference between Team Fortress 2 and Overwatch: in the past, TF2 centre
 Team Fortress 2 once centred public servers (persistent populated custom games) as its main form of engagement with the game, which created a low-pressure environment. 
 A number of years ago, Team Fortress 2 introduced matchmaking, but for many players, this only serves as an extra layer of UI that needs to be bypassed in order to access their true destination servers in the server browser.
 
-It's completely normal for players to dip in and out of persistent servers at any time: the fight has been going before you got there, and will continue after you leave.
+It's completely normal for players to dip in and out of persistent servers at any time: the fight has been going since before you got there, and will continue after you leave.
 
 With community servers and a lot of custom games, there is generally no obligation to play for the objective: many players treat the game as a team deathmatch sandbox where the objective is secondary. 
 
@@ -65,3 +65,28 @@ You get the "It’s just Quick Play" phenomenon because nobody knows exactly wha
 
 Since Quick Play is not Competitive, everybody is objectively valid in their idea of what Quick Play is, and this creates one of the central tensions explored here. 
 
+### The consequences of prioritising structured vs unstructured play
+
+In structured unranked play, an Overwatch player may:
+
+- Queue for a game for an unspecified amount of time (usually anywhere from 15 seconds to 5 minutes)
+- Play a match that may last an unspecified amount of time (up to 20 minutes, normally)
+- Pick from a choice of 3 maps selected by the game
+- Feel social or performative pressure to swap away from the character they intended to play and learn 
+- Play characters they may not want to currently play, or play at all
+- Feel pressure to perform, and feel like they "let the team down" if they didn’t play or perform optimally
+- Feel that they aren’t "allowed" to play the game how they want, because the objective is to win
+- Not spend enough time on a map to learn the map, before being thrown back into the matchmaker to be sent to a different map
+
+In unstructured play done the way that TF2 has historically done it, an Overwatch player in an ideal world may:
+- Avoid queues entirely. 
+Be able to enter a populated, ongoing game instantly on a map of their choosing - ‘drop-in, drop-out’ play - and not care if it’s ongoing, or if their team is losing or winning. 
+- Play on a map that never ends, or rotates every 90 minutes or more, with double or triple-length match timers
+- Feel no pressure to perform, and have the option to play the same hero for hours on end, feeling out the affordances and capabilities of that hero, if they so desire
+- Feel free - and feel encouraged to - treat the objective as an afterthought
+- Feel out the affordances of the map, learning key locations and health pack locations
+
+Structured unranked play creates an environment that is less conducive to learning than unstructured play in custom and community servers:
+- Learning happens more quickly when staying in one ongoing game, focusing on a single hero and a single map: when your attention is split between multiple heroes, maps, and servers, and you have to wait in queues, learning happens more slowly.
+- In unstructured games, you can worry less about satisfying the expectations of others: you can often just **be**. 
+- Persistent, community led servers may appear, and these servers have their own regulars, which players can hang out with.
