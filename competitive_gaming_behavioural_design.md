@@ -144,5 +144,25 @@ Conversely, player-led competitive multiplayer games support:
 - Emergent norms
 - Self-directed goals
 
-All of which are both more fun and more aligned with how humans actually work. 
+All of which are both more fun and more aligned with how humans actually work.
+
+### The feeling of stepping into a familiar map in an unfamiliar mode
+
+There's a very specific sensation that might hit you the first time a space you know intimately is suddenly reframed around you. It's subtle, but it's unmistakable. It's like the air pressure has changed around you. 
+
+Imagine this: you've played Team Fortress 2 on public servers for a long time. The maps you know aren't just maps any more, they feel like home. You've spent tens or hundreds of hours in each map. You know the flanks, the hiding spots, the rhythms of these spaces. You've only known them to be socially, cognitively, emotionally warm. They tolerate experimentation, mistakes, and they let you disappear into a crowd. 
+
+Then you queue for competitive mode on one of these maps, for the first time. 
+
+The map geometry is identical, but the temperature has dropped. This isn't a metaphor: your nervous system will actually register this shift. 
+
+You've only previously known this space to be warm and relaxed, but now it's different. It's a stage, a performance arena, it's cold, and the stakes are high. 
+
+You're no longer one of 24 people diffusing responsibility across a chaotic server. You're one of 12. Now, your decisions and deaths have weight to them. The space hasn't changed: it's just been contextually reframed. 
+
+It's the same uncanny shift you might have felt when stepping into your school sports hall for your first exam, or for a school stage play, or for a special event. You'd only ever played sports here before this, and now it's different. Familiar architecture, unfamiliar ecology. 
+
+This is where Overwatch diverges sharply from TF2. The core loop of Overwatch is built on two things: cold spaces (Ranked) and spaces with conflicting temperatures (Unranked). Warm spaces are deprioritised. Even Unranked carries the affordances of competitive modes: ephemeral servers, role expectations, performance metrics, framing, and team dependencies that expose any behaviours other than playing to win. 
+
+Team Fortress 2 lets you dissolve into the environment, while Overwatch keeps you perpertually foregrounded. One game offers warm, identity-safe play spaces as the default, and the other mixes warmth and cold in ways that create tension. 
 
