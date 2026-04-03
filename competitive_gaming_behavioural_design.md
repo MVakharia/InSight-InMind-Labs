@@ -148,6 +148,8 @@ All of which are both more fun and more aligned with how humans actually work.
 
 ### The feeling of stepping into a familiar map in an unfamiliar mode
 
+#### From casual to competitive
+
 There's a very specific sensation that might hit you the first time a space you know intimately is suddenly reframed around you. It's subtle, but it's unmistakable. It's like the air pressure has changed around you. 
 
 Imagine this: you've played Team Fortress 2 on public servers for a long time. The maps you know aren't just maps any more, they feel like home. You've spent tens or hundreds of hours in each map. You know the flanks, the hiding spots, the rhythms of these spaces. You've only known them to be socially, cognitively, emotionally warm. They tolerate experimentation, mistakes, and they let you disappear into a crowd. 
@@ -166,3 +168,50 @@ This is where Overwatch diverges sharply from TF2. The core loop of Overwatch is
 
 Team Fortress 2 lets you dissolve into the environment, while Overwatch keeps you perpertually foregrounded. One game offers warm, identity-safe play spaces as the default, and the other mixes warmth and cold in ways that create tension. 
 
+#### The reverse: from competitive to casual
+
+So this begs the question: how might it feel to find, choose, and step into a fully supported, 24/7, persistent, first-class, front-facing public Overwatch server with higher team size limits, with no obligations to your team, and freedom to just "be"?
+
+Firstly, players may feel a sense of relief: like a weight has been removed. 
+
+The play space may suddenly feel more expansive, because suddenly, every corner of the map is part of a playground to explore.
+
+The player would no longer be obligated to follow the optimal path to reach an objective, or play in the spaces that the objective state currently deems "optimal". 
+
+The player could go anywhere and do anything with no structural or social repercussions. 
+
+The performance contract/obligation is all but eliminated.
+
+The player may notice the absence of a win condition that actually matters, or a countdown that matters. 
+
+The map becomes a place with an atmosphere, rather than a battleground. 
+
+Players might notice spaces they’ve never used or inhabited before: they’ll find healthpacks and rooms that they never knew existed. 
+
+Persistent servers become a third place. In a persistent server, a player has permission to express themselves through hero choice. They're allowed to breathe: they’re not being evaluated, or measured, or scrutinised. They’re just playing. 
+
+The world feels bigger. The stakes feel lower. The possibilities feel wider, and the game feels like a game you own, rather than a game you’re being allowed to play. 
+
+The emotional impact would be profound because most players have never experienced real Overwatch without the matchmaker.
+
+The core difference is that while competitive matchmade Overwatch is a set of social contracts("Don't throw", "do your job", "don't play throw picks", "don’t experiment at my expense") a persistent server dissolves those contracts. Players feel like they belong. 
+
+### The things that happen in persistent servers that don’t happen anywhere else
+
+Players on the scoreboard will have hundreds of eliminations, assists, and deaths. Their healing and damage numbers will be in excess of 100,000 points. 
+
+The score continues ticking up and up and after many hours, the match scores are in the tens or even in the hundreds. Even if there’s a big difference in scores, you don’t think about the wins or losses; you think about how long the war has been going on and who was here before you. 
+
+Basically, the score goes from being a metric to a story; this weird, slow-burn epic that’s been going for many hours before you got here, and will continue for many hours after you leave. It creates a sense of history. 
+
+These numbers hit differently because they break the ceiling of what’s ‘normal’ and move into mythic absurdity. They’re participation records: numbers much higher than you might see in regular games. 
+
+Instead of the churn of 12 players, 15 minutes, goodbye, there’s continuity; a rolling tapestry of players drifting in and out of the same game. It goes from being a match to being a living space. 
+
+Nobody cares about MMR, nobody is enforcing hero swaps, but people might be trying to break the choke and move things forward. 
+
+You might get small units, sub-teams within teams that will band together and co-ordinate to try and make a difference, and it just might. 
+
+When the stakes are low and the match is endless, people experiment: weird comps, goofy strats, off-meta heroes, and these experiments get time to breathe. 
+
+People get more map knowledge from these silly sessions and they feel more engaged. 
