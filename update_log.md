@@ -6,6 +6,17 @@ Started keeping a log.
 
 Topics:
 
+**Intrinsic vs extrinsic rewards**
+- Extrinsic rewards are easier to quantify than intrisic rewards. 
+- Extrinsic rewards are objectively visible and they can be tracked and compared.
+- Intrinsic rewards are subjective. 
+- Things that can be counted are socially legible. 
+- We overvalue what is measurable, and we undervalue that which cannot be measured. 
+- We're more likely to enagage in domains with clear feedback loops, metrics, or social validation. 
+- Learning skills feels more rewarding when there are badges, certificates, or grades. 
+
+---
+
 **The current competitive matchmaking architecture.**
 - Do players want to be kicked out of a server and back into the matchmaker once a match is done, even if the match was only 5-15 minutes long?
 - Do they want to stay and play on the same map with most or all of the same people, regardless of if they're winning or losing?
@@ -13,20 +24,36 @@ Topics:
 - What happens to a competitive ecosystem when you remove continuity and force identity resets every 10 minutes?
 
 **Giving yourself permission to be bad at an activity even if you have prior or transferable experience.**
-- When you're playing only to protect your identity, you might play in a way that feels safe.
-- If it's a team effort, you might want to look like you're making a contribution, even if that contribution is meaningless.
-- It feels 'correct' because you're not risking embarrassment or messing things up.
-- When you give yourself permission to screw up, what you're actually doing is giving yourself permission to find out, or generate, new information.
-- When you screw up in new ways, you learn things you might not have learned if you played it safe.
-- Every failure creates a new data point, and every moment you spend playing it safe creates almost nothing.
+- When a player plays it safe in order to protect their identity.
+- When a player wants to look like they're making a contribution to a team effort, even if the contribution is ultimately meaningless.
+- How meaningless contributions can feel 'correct' because the player isn't risking embarrassment or messing things up.
+- When a player gives themselves permission to screw up, and how this actually leads to them finding out, or generating, new information.
+- When a player screws up in new ways, they may learn things they might not have learned if they played it safe.
+- Every failure creates a new data point, and every moment a player spends playing it safe creates almost nothing.
 
 **The flow and economy of attention in team-based online multiplayer games**
 - How team roles manipulate attention in different ways.
 - How a Tank anchors attention, how a DPS manipulates attention, and how a Support routes attention.
 - How does attention move through a teamfight and through a match?
 - How do mistakes emerge from misallocated attention?
-- How a fight can be won by controlling attention, rather than getting kills.
+- How a fight can be won by controlling attention, rather than playing to get kills.
 
 **When a game gives players no worthwhile place to exist unless they're performing, it's not a home. It's a perpetual tournament destination.**
-- The psychological trap of only awarding players who perform, and giving nothing to players who just want a home to exist in. 
-- How do you implement progression for custom games and community servers in online multiplayer games without opening the door to XP farms?
+- The psychological trap of only awarding players who perform, and giving nothing to players who just want a home to exist in.
+- Implementing progression for custom games and community servers in online multiplayer games without opening the door to XP farms.
+- Designing a healthy, restorative, homely multiplayer ecology in a competitive multiplayer game.
+- How if a game gives the player a home, they're more likely stay inside the game when they need a break. If they stay, they're more likely to spend money on their home. And the game thrives when players spend money.
+- Players don't live in a tournament destination, they only visit it. Visitors leave.
+
+**Balancing 1v1 modes inside team-based competitive online multiplayer games**
+- Making a 1v1 mode work in a game where heroes aren't created equal and where individual matchups between characters are inherently unfair by design.
+
+**Designing a 'Retire' or 'Finish Game' or 'End Game' button to replace the 'Quit Game' button in order to trigger progression and rewards in a persistent server**
+
+The Quit Game button returns the player to the main menu and removes them from the match: they won't complete it and won't receive progression experience and rewards. If the player has completed a match and chooses to stay on in a persistent server, they need to be rewarded for their activity, even if the war wil go on without them. So, we replace the Quit Game button with something else that will trigger progression.
+
+- This button functions as a session boundary ritual.
+- It frames the exit as 'You've completed your contribution. Good work. See you next time.'
+- It concludes participation in the game, 'completing the shift' rather than abandoning the match.
+
+**Cycling through the different versions of a map (dawn, day, dusk, and night) in a persistent 24/7 server as the hours go by in real life.**
