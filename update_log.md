@@ -50,7 +50,7 @@ Topics:
 
 **Designing a 'Retire' or 'Finish Game' or 'End Game' button to replace the 'Quit Game' button in order to trigger progression and rewards in a persistent server**
 
-The Quit Game button returns the player to the main menu and removes them from the match: they won't complete it and won't receive progression experience and rewards. If the player has completed a match and chooses to stay on in a persistent server, they need to be rewarded for their activity, even if the war wil go on without them. So, we replace the Quit Game button with something else that will trigger progression.
+The Quit Game button returns the player to the main menu and removes them from the match: they won't complete it and won't receive progression experience and rewards. If the player has completed a match and chooses to leave a persistent server, they need to be rewarded for their activity, even if the war wil go on without them. So, we replace the Quit Game button with something else that will trigger progression.
 
 - This button functions as a session boundary ritual.
 - It frames the exit as 'You've completed your contribution. Good work. See you next time.'
