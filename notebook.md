@@ -1,10 +1,13 @@
 # Notebook
 
-Topics:
+**This is where the ideas form, before they're expanded into their own documents.**
 
-**If a student would rather engage in activities aside from study, such as playing video games, the key isn't to remove or restrict access to the activities: it's to understand why the student would rather engage in those activities than study.**
+---
 
-**School didn't teach us how to study: we're just expected to 'know' the best ways to learn, retain, recall, or use information.**
+**The education system**
+
+- If a student would rather engage in activities aside from study, such as playing video games, the key isn't to remove or restrict access to the activities: it's to understand why the student would rather engage in those activities than study.
+- School didn't teach us how to study: we're just expected to 'know' the best ways to learn, retain, recall, or use information.
 
 ---
 
