@@ -13,13 +13,13 @@
 
 **The behavioural design of digital friction**
 
-- Implementing digital friction in order to deter users from spending too long aimlessly browsing the internet, instead of relying on willpower or motivation.
+- Implementing digital friction in order to deter users from spending too long endlessly browsing the internet, instead of relying on willpower or motivation.
 - Tools that introduce digital friction.
 - Dedicated third-party webview apps that remove the content feed from a website so that website usage becomes user-directed instead of directed by an algorithm.
 - The act of browsing the internet as a modern hobby.
 - The act of uninstalling mobile apps as an intervention method.
 - Devices that have no internet connectivity by default.
-- Devices with an internet connection but little to no access to social media.
+- Devices with an internet connection but little to no access to mechanisms that allow for endless browsing. 
 
 ---
 
@@ -34,26 +34,32 @@
 
 ---
 
-**The current competitive matchmaking architecture.**
+**Flexing, filling, swapping, and its effect on player skill development**
+- How team expectations override personal goals.
+
+**Legacy identity pressure - historical competence as a psychological anchor**
+- How the mismatch between a historic skill level and its record (win rate, hours played, games won, rank), and a player's current sense of competence, creates feelings of shame and frustration when the player is unable to perform at their previous level. 
+
+**Matchmaking and player displacement.**
 - Do players want to be kicked out of a server and back into the matchmaker once a match is done, even if the match was only 5-15 minutes long?
 - Do they want to stay and play on the same map with most or all of the same people, regardless of if they're winning or losing?
 - What do players really want?
-- What happens to a competitive ecosystem when you remove continuity and force identity resets every 10 minutes?
+- What happens to a competitive ecosystem when you remove continuity and displace your players every 15 minutes?
 
 **Giving yourself permission to be bad at an activity even if you have prior or transferable experience.**
 - When a player plays it safe in order to protect their identity.
 - When a player wants to look like they're making a contribution to a team effort, even if the contribution is ultimately meaningless.
 - How meaningless contributions can feel 'correct' because the player isn't risking embarrassment or messing things up.
 - When a player gives themselves permission to screw up, and how this actually leads to them finding out, or generating, new information.
-- When a player screws up in new ways, they may learn things they might not have learned if they played it safe.
-- Every failure creates a new data point, and every moment a player spends playing it safe creates almost nothing.
+- Learning things through screwing up, that might not have been learned by playing it safe.
+- How failures create more data points than successes. 
 
 **The flow and economy of attention in team-based online multiplayer games**
 - How team roles manipulate attention in different ways.
 - How a Tank anchors attention, how a DPS manipulates attention, and how a Support routes attention.
 - How does attention move through a teamfight and through a match?
 - How do mistakes emerge from misallocated attention?
-- How a fight can be won by controlling attention, rather than playing to get kills.
+- Controlling attention to win a fight, rather than playing for eliminations. 
 
 **When a game gives players no worthwhile place to exist unless they're performing, it's not a home. It's a perpetual tournament destination.**
 - The psychological trap of only awarding players who perform, and giving nothing to players who just want a home to exist in.
