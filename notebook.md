@@ -4,36 +4,6 @@
 
 ---
 
-**What conditions must exist for a human to be capable of genuine respect for another?**
-
-- What is respect, and what isn't it? (compliance, deference, fear)
-- What cognitive state is required?
-- What are the environmental conditions that support that state?
-- What architectures destroy that state?
-- Which forms of power are legitimate and which are illegitimate?
-- What behaviours are possible under threat, and what becomes possible when an individual isn't under threat?
-
----
-
-**The education system**
-
-- If a student would rather engage in activities aside from study, such as playing video games, the key isn't to remove or restrict access to the activities: it's to understand why the student would rather engage in those activities than study.
-- School didn't teach us how to study: we're just expected to 'know' the best ways to learn, retain, recall, or use information.
-
----
-
-**The behavioural design of digital friction**
-
-- Implementing digital friction in order to deter users from spending too long endlessly browsing the internet, instead of relying on willpower or motivation.
-- Tools that introduce digital friction.
-- Dedicated third-party webview apps that remove the content feed from a website so that website usage becomes user-directed instead of directed by an algorithm.
-- The act of browsing the internet as a modern hobby.
-- The act of uninstalling mobile apps as an intervention method.
-- Devices that have no internet connectivity by default.
-- Devices with an internet connection but little to no access to mechanisms that allow for endless browsing. 
-
----
-
 **Intrinsic vs extrinsic rewards**
 - Extrinsic rewards are easier to quantify than intrisic rewards. 
 - Extrinsic rewards are objectively visible and they can be tracked and compared.
