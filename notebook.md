@@ -15,8 +15,7 @@
 
 ---
 
-**Flexing, filling, swapping, and its effect on player skill development**
-- How team expectations override personal goals.
+### Competitive multiplayer video games
 
 **Legacy identity pressure - historical competence as a psychological anchor**
 - How the mismatch between a historic skill level and its record (win rate, hours played, games won, rank), and a player's current sense of competence, creates feelings of shame and frustration when the player is unable to perform at their previous level. 
@@ -60,11 +59,14 @@ The Quit Game button returns the player to the main menu and removes them from t
 - It frames the exit as 'You've completed your contribution. Good work. See you next time.'
 - It concludes participation in the game, 'completing the shift' rather than abandoning the match.
 
-**Cycling through the different versions of a map (dawn, day, dusk, and night) in a persistent 24/7 server as the hours go by in real life.**
-
 **A self-imposed character lockout system for learning new characters in competitive games**
 
 - A system that allows a player to self-ban one or more characters for competitive play in video games: they become unable to choose their banned heroes, and are forced to learn the unfamiliar ones that they're interested in learning.  
 - A self-governed constraint system that temporarily collapses the player's identity, allowing them to enter a learning ecology without the baggage of their skill level on their 'main' characters, the MMR constraints created by those characters, or the social expectations carried by the player's usual choices. 
 - A behavioural architecture intervention aimed at restoring identity safety and exploratory bandwidth inside a system that normally punishes experimentation. 
 - The player is forced into a 'learning zone' and denied the opportunity to fall back on their comfort picks to try and secure wins that would have otherwise been losses. The system creates the friction required to prevent potential avoidance loops.
+
+**Flexing, filling, swapping, and its effect on player skill development**
+- How team expectations override personal goals.
+
+**Cycling through the different versions of a map (dawn, day, dusk, and night) in a persistent 24/7 server as the hours go by in real life.**
