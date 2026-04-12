@@ -18,6 +18,12 @@ This is where I'll talk about it.
 
 ### Introduction
 
+**How modern multiplayer games delegitimise unstructured, persistent, identity-safe play spaces, not by removing them, but by hiding them, deprioritising them, and refusing to treat them as first-class modes.**
+
+- How this delegitimisation reshapes learning, identity formation, sense of community, and the emotional ecology of play.
+
+- Exploring the set of emotional states that a multiplayer environment enables, supports, or suppresses through its structural design. 
+
 Here I'll examine the industry-wide shift from prioritising persistent servers, available through a server browser, to prioritising ephemeral, session-based servers, available through matchmaking, and what we lost during that shift.
 
 There are different types of game lobbies: Unranked, Ranked, rotating/casual/limited-time game modes, custom games, and community servers. 
@@ -146,9 +152,11 @@ Conversely, player-led competitive multiplayer games support:
 
 All of which are both more fun and more aligned with how humans actually work.
 
-### The feeling of stepping into a familiar map in an unfamiliar mode
+### Appendices, notes, and research questions
 
-#### From casual to competitive
+#### The feeling of stepping into a familiar map in an unfamiliar mode
+
+##### From casual to competitive
 
 There's a very specific sensation that might hit you the first time a space you know intimately is suddenly reframed around you. It's subtle, but it's unmistakable. It's like the air pressure has changed around you. 
 
@@ -168,7 +176,7 @@ This is where Overwatch diverges sharply from TF2. The core loop of Overwatch is
 
 Team Fortress 2 lets you dissolve into the environment, while Overwatch keeps you perpertually foregrounded. One game offers warm, identity-safe play spaces as the default, and the other mixes warmth and cold in ways that create tension. 
 
-#### The reverse: from competitive to casual
+##### The reverse: from competitive to casual
 
 So this begs the question: how might it feel to find, choose, and step into a fully supported, 24/7, persistent, first-class, front-facing public Overwatch server with higher team size limits, with no obligations to your team, and freedom to just "be"?
 
@@ -196,7 +204,7 @@ The emotional impact would be profound because most players have never experienc
 
 The core difference is that while competitive matchmade Overwatch is a set of social contracts("Don't throw", "do your job", "don't play throw picks", "don’t experiment at my expense") a persistent server dissolves those contracts. Players feel like they belong. 
 
-### The things that happen in persistent servers that don’t happen anywhere else
+#### The things that happen in persistent servers that don’t happen anywhere else
 
 Players on the scoreboard will have hundreds of eliminations, assists, and deaths. Their healing and damage numbers will be in excess of 100,000 points. 
 
@@ -215,3 +223,54 @@ You might get small units, sub-teams within teams that will band together and co
 When the stakes are low and the match is endless, people experiment: weird comps, goofy strats, off-meta heroes, and these experiments get time to breathe. 
 
 People get more map knowledge from these silly sessions and they feel more engaged. 
+
+---
+
+**Matchmaking and player displacement.**
+- Do players want to be kicked out of a server and back into the matchmaker once a match is done, even if the match was only 5-15 minutes long?
+- Do they want to stay and play on the same map with most or all of the same people, regardless of if they're winning or losing?
+- What do players really want?
+- What happens to a competitive ecosystem when you remove continuity and displace your players every 15 minutes?
+
+**Giving yourself permission to be bad at an activity even if you have prior or transferable experience.**
+- When a player plays it safe in order to protect their identity.
+- When a player wants to look like they're making a contribution to a team effort, even if the contribution is ultimately meaningless.
+- How meaningless contributions can feel 'correct' because the player isn't risking embarrassment or messing things up.
+- When a player gives themselves permission to screw up, and how this actually leads to them finding out, or generating, new information.
+- Learning things through screwing up, that might not have been learned by playing it safe.
+- How failures create more data points than successes. 
+
+**The flow and economy of attention in team-based online multiplayer games**
+- How team roles manipulate attention in different ways.
+- How a Tank anchors attention, how a DPS manipulates attention, and how a Support routes attention.
+- How does attention move through a teamfight and through a match?
+- How do mistakes emerge from misallocated attention?
+- Controlling attention to win a fight, rather than playing for eliminations. 
+
+**When a game gives players no worthwhile place to exist unless they're performing, it's not a home. It's a perpetual tournament destination.**
+- The psychological trap of only awarding players who perform, and giving nothing to players who just want a home to exist in.
+- Implementing progression for custom games and community servers in online multiplayer games without opening the door to XP farms.
+- Designing a healthy, restorative, homely multiplayer ecology in a competitive multiplayer game.
+- How if a game gives the player a home, they're more likely stay inside the game when they need a break. If they stay, they're more likely to spend money on their home. And the game thrives when players spend money.
+- Players don't live in a tournament destination, they only visit it. Visitors leave.
+
+**Balancing 1v1 modes inside team-based competitive online multiplayer games**
+- Making a 1v1 mode work in a game where heroes aren't created equal and where individual matchups between characters are inherently unfair by design.
+
+**Designing a 'Retire' or 'Finish Game' or 'End Game' button to replace the 'Quit Game' button in order to trigger progression and rewards in a persistent server**
+
+The Quit Game button returns the player to the main menu and removes them from the match: they won't complete it and won't receive progression experience and rewards. If the player has completed a match and chooses to leave a persistent server, they need to be rewarded for their activity, even if the war wil go on without them. So, we replace the Quit Game button with something else that will trigger progression.
+
+- This button functions as a session boundary ritual.
+- It frames the exit as 'You've completed your contribution. Good work. See you next time.'
+- It concludes participation in the game, 'completing the shift' rather than abandoning the match.
+
+**A self-imposed character lockout system for learning new characters in competitive games**
+
+- A system that allows a player to self-ban one or more characters for competitive play in video games: they become unable to choose their banned heroes, and are forced to learn the unfamiliar ones that they're interested in learning.  
+- A self-governed constraint system that temporarily collapses the player's identity, allowing them to enter a learning ecology without the baggage of their skill level on their 'main' characters, the MMR constraints created by those characters, or the social expectations carried by the player's usual choices. 
+- A behavioural architecture intervention aimed at restoring identity safety and exploratory bandwidth inside a system that normally punishes experimentation. 
+- The player is forced into a 'learning zone' and denied the opportunity to fall back on their comfort picks to try and secure wins that would have otherwise been losses. The system creates the friction required to prevent potential avoidance loops.
+
+**Flexing, filling, swapping, and its effect on player skill development**
+- How team expectations override personal goals.
