@@ -23,7 +23,7 @@ The plan is to have multiple variants:
 - Unity3D?
 - ATM/EPOS/IT Field Service Engineer
 
-#### Profiles
+#### Behavioural Design profile
 
 I am an independent behavioural design researcher who analyses how digital and real-world systems shape human behaviour and user experience. I draw on principles of behavioural science, cognitive and environmental psychology, and Learning Sciences to evaluate how people navigate complex processes and systems. 
 
@@ -31,7 +31,7 @@ From digital interfaces to service pathways, I identify the friction points that
 
 My background in Unity, games and web development, IT, and EPOS/ATM engineering gives me a practical understanding of interactive systems, enabling me to translate research and my findings into clearer, more human-aligned design.
 
----
+#### E-learning researcher profile addition
 
 As an e-learning researcher, I examine how learners move through digital learning environments and the surrounding service ecosystem, analysing platform and lesson design and how it supports or hinders learning. 
 
@@ -41,4 +41,3 @@ I examine how different platforms structure their learning journeys - from those
 
 I look at the true purpose of individual learning platforms and I explore the differences between what the user hopes to achieve, vs the actual outcomes, and I translate my insights into evidence-informed recommendations for improving user experience, comprehension, and skill transfer.
 
----

@@ -4,6 +4,106 @@
 
 ---
 
+**How official ecosystems create psychological legitimacy for digital objects, and how objects outside those ecosystems feel ontologically incomplete.**
+
+- How and why emulated video game experiences feel real despite the unofficial hardware, while emulated data feels ‘fake’ when it sits outside the official ecosystem.
+
+---
+
+**UX as a diagnostic lens to infer organisational values, constraints, incentives, culture, and competence distribution.**
+
+- The withdrawal of responsibility in digital services, the externalisation of risk, and how design choices quietly communicate contempt for users. 
+
+---
+
+**How engagement‑optimised content feeds, social media systems, and dark patterns shape user attention, behaviour, and wellbeing.**
+
+- Exploring friction-based interventions (browser-level ‘unhook’ tools) and bringing intentional usage to social media. 
+- Examining everyday phenomena such as the intention to watch one video on YouTube, and manipulation by the algorithm into unintended, extended usage. 
+
+---
+
+**The consequences of service systems and everyday infrastructure that fail to provide redundancy, give users slack, or allow for normal human limitations.**
+
+- Digital systems that assume all humans have a smartphone, data, battery life, a network connection, technical literacy, and never make mistakes.
+
+---
+
+**Unstructured, exploratory play as a vital human practice, despite the lack of visible external reward structures.**
+
+- The importance of curiosity, practice and exploration of instruments (musical or otherwise) for its own sake, without ties to performance, mastery, or identity. 
+- The delegitimisation of exploratory play that leads to long-term disengagement or shame-based avoidance.
+
+---
+
+**Real-time metacognitive state-tracking for optimising learning and working efficiency in an unstructured environment.**
+
+- Identifying cognitive fluctuations during independent work and integrating deliberate rest and recovery to improve learning persistence, effectively switch learning modes, and prevent distraction or premature task abandonment.
+
+---
+
+**Experiential vs analytical evaluation of products and items across domains.**
+
+- Evaluation through experience and feel vs technical specifications and statistics: when specs or scores can’t capture what actually matters, and hands‑on use tells you more in seconds than data does in hours. 
+
+---
+
+**The cost of radical self-sufficiency driven by compulsive low-leverage skill acquisition.**
+
+- The psychological consequences of learning everything simply because it feels safer than trusting others, spending money, or accepting dependence.
+
+---
+
+**The cognitive, organisational, and external impact of technological paradigm shifts in creative industries.**
+
+- How transitions such as 2D to 3D or Unity to Unreal reshape workflows, decision-making heuristics, design languages, and organisational structures. 
+- How studios adapt (or fail to adapt) when new tools disrupt established production rhythms, mental models, tacit knowledge, and shared practices.
+
+---
+
+**The systemic misalignment between human learning psychology and the engagement‑driven design of modern digital learning environments.**
+
+- How users mistake activity for progress, and how platforms often encourage that confusion.
+- The emotional fallout when a person’s identity as a ‘learner’ collides with the reality that they haven’t actually gained the competence they believed they were earning.
+
+---
+
+**How do cooperative video game systems alter a player’s threat appraisal, and what design patterns preserve or dissolve fear when allies are present?**
+
+- How fear emerges from the interaction between social presence, environmental hostility, and mechanical vulnerability, and why some games’ horror is socially fragile while others’ is structurally resilient.
+
+Why do some games lose their horror elements when you have allies to help and protect you, other games keep their horror regardless of ally count, and yet other games gain horror elements when allies are removed?
+
+A conversation about horror affordances in video games.
+
+---
+
+**How modern multiplayer games delegitimise unstructured, persistent, identity-safe play spaces, not by removing them, but by hiding them, deprioritising them, and refusing to treat them as first-class modes.**
+
+- How this delegitimisation reshapes learning, identity formation, sense of community, and the emotional ecology of play.
+
+- Exploring the set of emotional states that a multiplayer environment enables, supports, or suppresses through its structural design. 
+
+A core difference between Team Fortress 2 and Overwatch: TF2 centered and legitimised the server browser as the default mode of play, while Overwatch centers and legitimises matchmaking as the default. This produces radically different learning, identity, and community outcomes. 
+
+---
+
+**When movement becomes the metric instead of problem-solving, creating the illusion of productivity**
+
+- How companies reward motion over outcomes and the human cost of maintaining the illusion.
+- What happens when metrics replace real work and workers become buffers for bad organisational design?
+- How impossible targets, superficial training (basically 'training theatre'), and coverage metrics hide structural failure.
+- The fallout of systems built to impress stakeholders rather than support workers.
+- How unrealistic expectations and training theatre create the illusion that workers are the problem.
+
+A conversation about field service engineers who visit every site in a day and fix little to nothing, who are rewarded for movement rather than problem‑solving because they’re hitting KPIs. 
+
+---
+
+
+
+---
+
 **Intrinsic vs extrinsic rewards**
 - Extrinsic rewards are easier to quantify than intrisic rewards. 
 - Extrinsic rewards are objectively visible and they can be tracked and compared.
