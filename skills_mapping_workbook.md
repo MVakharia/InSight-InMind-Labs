@@ -25,6 +25,8 @@ E-Learning Researcher (specialising in foreign languages and coding)
 
 ATM/EPOS/IT Field Service Engineer
 
+---
+
 **What is the identity that you’ve been building?**
 
 A behavioural designer with technical literacy and a systems-oriented mind.
