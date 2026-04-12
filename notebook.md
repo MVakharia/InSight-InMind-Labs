@@ -4,8 +4,6 @@
 
 ## Research topics
 
----
-
 **How official ecosystems create psychological legitimacy for digital objects, and how objects outside those ecosystems feel ontologically incomplete.**
 
 - How and why emulated video game experiences feel real despite the unofficial hardware, while emulated data feels ‘fake’ when it sits outside the official ecosystem.
