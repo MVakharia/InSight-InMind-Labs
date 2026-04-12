@@ -4,12 +4,6 @@
 
 ## Research topics
 
-**How official ecosystems create psychological legitimacy for digital objects, and how objects outside those ecosystems feel ontologically incomplete.**
-
-- How and why emulated video game experiences feel real despite the unofficial hardware, while emulated data feels ‘fake’ when it sits outside the official ecosystem.
-
----
-
 **UX as a diagnostic lens to infer organisational values, constraints, incentives, culture, and competence distribution.**
 
 - The withdrawal of responsibility in digital services, the externalisation of risk, and how design choices quietly communicate contempt for users. 
@@ -68,26 +62,6 @@
 
 ---
 
-**How do cooperative video game systems alter a player’s threat appraisal, and what design patterns preserve or dissolve fear when allies are present?**
-
-- How fear emerges from the interaction between social presence, environmental hostility, and mechanical vulnerability, and why some games’ horror is socially fragile while others’ is structurally resilient.
-
-Why do some games lose their horror elements when you have allies to help and protect you, other games keep their horror regardless of ally count, and yet other games gain horror elements when allies are removed?
-
-A conversation about horror affordances in video games.
-
----
-
-**How modern multiplayer games delegitimise unstructured, persistent, identity-safe play spaces, not by removing them, but by hiding them, deprioritising them, and refusing to treat them as first-class modes.**
-
-- How this delegitimisation reshapes learning, identity formation, sense of community, and the emotional ecology of play.
-
-- Exploring the set of emotional states that a multiplayer environment enables, supports, or suppresses through its structural design. 
-
-A core difference between Team Fortress 2 and Overwatch: TF2 centered and legitimised the server browser as the default mode of play, while Overwatch centers and legitimises matchmaking as the default. This produces radically different learning, identity, and community outcomes. 
-
----
-
 **When movement becomes the metric instead of problem-solving, creating the illusion of productivity**
 
 - How companies reward motion over outcomes and the human cost of maintaining the illusion.
@@ -96,7 +70,7 @@ A core difference between Team Fortress 2 and Overwatch: TF2 centered and legiti
 - The fallout of systems built to impress stakeholders rather than support workers.
 - How unrealistic expectations and training theatre create the illusion that workers are the problem.
 
-A conversation about field service engineers who visit every site in a day and fix little to nothing, who are rewarded for movement rather than problem‑solving because they’re hitting KPIs. 
+A conversation about field service engineers who are given far too many site visits and locations in a day, successfully visiting all of them while performing very few actual repairs, and are rewarded for movement rather than problem‑solving because they’re hitting KPIs. 
 
 ---
 
@@ -124,20 +98,9 @@ A conversation about field service engineers who visit every site in a day and f
 
 ---
 
-**The lack of ‘villain’ role identity and the cost of cognitive switching in asymmetrical PvP/PvE video games**
-
-- What happens when the ‘villains’ are treated as obstacles to be killed by the heroes, instead of as the role they are? What happens when you can’t play them outside of PvP?
-- What happens to learning when a PvP game mode essentially forces you to play a different game every time you switch sides?
-
----
-
 **The consequences of a game being a sequel only in name, and what happens when you change the game mechanics completely.**
 
 - How do players feel when they go into a sequel expecting their mechanical skill to carry over, and they find that their muscle memory doesn’t have a home here?
-
----
-
-**The systemic hijacking of player intent through interruptive video game mechanics and unwanted encounter loops, and its effects on game pacing and the experience of traversal through a game world.**
 
 ---
 
@@ -149,7 +112,7 @@ A conversation about field service engineers who visit every site in a day and f
 - We overvalue what is measurable, and we undervalue that which cannot be measured. 
 - We're more likely to enagage in domains with clear feedback loops, metrics, or social validation.
 - Despite the value of intrinsic rewards, we’re less likely to engage with certain domains if there’s a lack of extrinsic reward systems. 
-- Learning skills feels more rewarding when there are badges, certificates, or grades. 
+- Learning skills feels more rewarding when there are extrinsic rewards, such as badges, certificates, or grades. 
 - Chronic overstimulation can blunt our sensitivity to more subtle rewards; high-intensity, high-frequency reward cues (like content feeds) train our brains to expect fast, salient, low-effort rewards. When our reward expectations shift upwards, lower-intensity activities feel 'flat' or 'effortful' by comparison. 
 
 One example of an intrinsic reward is the knowledge that you learned something. 
@@ -160,12 +123,39 @@ Self-improvement is something that can’t be quantified with a number: we’re 
 
 Intrinsic rewards require interpretation: they’re invisible and subtle. They don’t announce themselves: you have to notice them. 
 
----
+Recognising intrinsic rewards requires us to be introspective or employ metacognition, or both. 
+
+- Keeping a journal is one way to turn intrinsic rewards into extrinsic ones: you can keep a log of what you learned or how you’ve grown. This makes them feel more tangible. 
+
+
+### Video games
+
+**Legacy identity pressure - historical competence as a psychological anchor**
+- How the mismatch between a historic skill level and record (win rate, hours played, games won, rank), and a player's current sense of competence, creates feelings of shame and frustration when the player is unable to perform at their previous level.
+
+**The systemic hijacking of player intent through interruptive video game mechanics and unwanted encounter loops, and its effects on game pacing and the experience of traversal through a game world.**
+
+**How do cooperative video game systems alter a player’s threat appraisal, and what design patterns preserve or dissolve fear when allies are present?**
+
+- How fear emerges from the interaction between social presence, environmental hostility, and mechanical vulnerability, and why some games’ horror is socially fragile while others’ is structurally resilient.
+
+Why do some games lose their horror elements when you have allies to help and protect you, other games keep their horror regardless of ally count, and yet other games gain horror elements when allies are removed?
+
+A conversation about horror affordances in video games.
+
+**How official ecosystems create psychological legitimacy for digital objects, and how objects outside those ecosystems feel ontologically incomplete.**
+
+- How and why emulated video game experiences feel real despite the unofficial hardware, while emulated data feels ‘fake’ when it sits outside the official ecosystem.
 
 ### Competitive multiplayer video games
 
-**Legacy identity pressure - historical competence as a psychological anchor**
-- How the mismatch between a historic skill level and its record (win rate, hours played, games won, rank), and a player's current sense of competence, creates feelings of shame and frustration when the player is unable to perform at their previous level. 
+**How modern multiplayer games delegitimise unstructured, persistent, identity-safe play spaces, not by removing them, but by hiding them, deprioritising them, and refusing to treat them as first-class modes.**
+
+- How this delegitimisation reshapes learning, identity formation, sense of community, and the emotional ecology of play.
+
+- Exploring the set of emotional states that a multiplayer environment enables, supports, or suppresses through its structural design. 
+
+A core difference between Team Fortress 2 and Overwatch: TF2 centered and legitimised the server browser as the default mode of play, while Overwatch centers and legitimises matchmaking as the default. This produces radically different learning, identity, and community outcomes. 
 
 **Matchmaking and player displacement.**
 - Do players want to be kicked out of a server and back into the matchmaker once a match is done, even if the match was only 5-15 minutes long?
@@ -218,48 +208,8 @@ The Quit Game button returns the player to the main menu and removes them from t
 
 **Cycling through the different versions of a map (dawn, day, dusk, and night) in a persistent 24/7 server as the hours go by in real life.**
 
----
+**The lack of ‘villain’ role identity and the cost of cognitive switching in asymmetrical PvP/PvE video games**
 
-## My behavioural design work
+- What happens when the ‘villains’ are treated as obstacles to be killed by the heroes, instead of as the role they are? What happens when you can’t play them outside of PvP?
+- What happens to learning when a PvP game mode essentially forces you to play a different game every time you switch sides?
 
-### Designing the environment to shape user behaviour
-
-- I’ve been mapping friction for years without realising that’s what it was called.
-- As a professional organiser, I design spaces so that good habits become easier and bad habits become more difficult. 
-- I lay out spaces in a way that reduces decision fatigue as much as possible.
-- I create dedicated 'zones' for work, hobbies, relaxation, leisure, and sleep, and try to avoid overlap and context bleed.
-- I design spaces that reflect who people truly are, not who they wish they were: spaces that support them in moving towards genuine self-acceptance. 
-- I change the choice architecture of an environment to engineer behaviour, rather than relying on willpower. 
-- I understand that just like attention, willpower is also treated as a limited cognitive resource: there is a kind of ‘willpower economy’. 
-
-### Designing digital environments to shape user behaviour
-
-In addition to physical spaces, I also work with digital spaces, where I implement friction in order to engineer healthier browsing habits and promote digital wellbeing: essentially, designing the environment to shape behaviour. Methods include:
-
-- Deliberately keeping the phone away from the bedside, so the user is required to get up in order to turn off their alarm. 
-- Keeping sleeping areas tech-free, or making it as difficult as possible to reach or use tech at times where the user intends to sleep. 
-- I break scrolling loops using browser addons such as YouTube Unhook, Reddit Unhook, and Wikipedia Without Links. 
-- I’m interested in digital environments that reduce compulsive checking and harmful loops by design: the Nintendo Switch, for example, and any tech that either intentionally or unintentionally omits social media, content feeds, web browsers, or direct-messaging tools. 
-
-I look at techniques to reduce cognitive overstimulation before sleep, such as:
-
-- Winding down without tech
-- Filling the last hour before sleep with physical activity, such as housework that must be completed before bed
-- Using tech with greyscale mode enabled
-- A screen with a blue light filter
-- A screen with low brightness
-- An OLED display
-- A device with application restrictions by design 
-- Journalling with pen and paper
-- Reading a book
-
-### Visibility, memory, visual cues, and their influence on behaviour
-
-- I implement visual cues to increase the likelihood that a desired behaviour will happen. 
-- I understand that without visual cues, out-of-sight objects can become dead items if they aren’t central to everyday life. 
-- I design spaces that keep important cues within perception without cluttering them. 
-
-
-### Energy management, behavioural sustainability, and environmental psychology
-- I consider the consequences of the Zeigarnik effect: I think about how our ‘open loops’ silently drain us and we don’t even realise it, and how closing these open loops - completing pending tasks or dealing with unresolved problems - frees up our mental bandwidth and contributes towards us restoring our energy.
-- I think about how people underestimate how much it really costs to leave micro-tasks unresolved.
