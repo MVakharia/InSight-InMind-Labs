@@ -2,7 +2,7 @@
 
 **A work-in-progress piece on external reward systems and how they compare to internal ones.**
 
-We consider extrinsic rewards to be easier to quantify than intrisic rewards, and they feel more 'real' as a result. 
+We consider extrinsic rewards to be easier to quantify than intrinsic rewards, and they feel more 'real' as a result. 
 
 Extrinsic rewards are objectively visible and they can therefore be tracked and compared, whereas intrinsic rewards are subjective. 
 
