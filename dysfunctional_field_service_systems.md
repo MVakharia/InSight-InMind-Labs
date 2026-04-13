@@ -52,7 +52,7 @@ A realistic target for a break-fix engineer is 1-4 sites in an 8 hour day, depen
 
 7 sites a day in 10 hours isn’t a real operational expectation. It’s something that someone wrote on a spreadsheet to impress someone else. 
 
-If you can arrive on site, read documentation for 30-45 minutes to try (and fail) and understand the problem, log the ticket as ‘site attended, documentation read, further work required’, pack up your things and move on, and still meet the target, it proves that the job isn’t about meeting outcomes: it’s about **motion**.
+If you can arrive on site, read documentation for 30-45 minutes to try (and fail) and understand the problem, log the ticket as ‘site attended, documentation read, further work required’, pack up your things and move on, and still meet the target, it proves that the job isn’t about meeting outcomes; it’s about **motion**.
 
 This is a classic symptom of a KPI-driven company culture with no grounding in reality. 
 
