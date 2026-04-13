@@ -106,12 +106,6 @@ A conversation about horror affordances in video games.
 
 ---
 
-**How official ecosystems create psychological legitimacy for digital objects, and how objects outside those ecosystems feel ontologically incomplete.**
-
-- How and why emulated video game experiences feel real despite the unofficial hardware, while emulated data feels ‘fake’ when it sits outside the official ecosystem.
-
----
-
 ### Competitive multiplayer video games
 
 **Cycling through the different versions of a map (dawn, day, dusk, and night) in a persistent 24/7 server as the hours go by in real life.**
