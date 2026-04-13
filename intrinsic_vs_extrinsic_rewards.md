@@ -1,4 +1,6 @@
-**Intrinsic vs extrinsic rewards**
+# Intrinsic vs extrinsic rewards
+
+**A work-in-progress piece on external reward systems and how they compare to internal ones.**
 
 We consider extrinsic rewards to be easier to quantify than intrisic rewards, and they feel more 'real' as a result. 
 
@@ -20,7 +22,7 @@ One example of an intrinsic reward is the knowledge that you learned something.
 
 The positives of exploring a domain are more than just the intrinsic rewards. Exploring it can be healing and restorative. 
 
-We can't quantify Self-improvement with a number because we’re not computers.
+We can't quantify self-improvement with a number because we’re not computers.
 
 Intrinsic rewards require interpretation because they’re invisible and subtle. They don’t announce themselves; you have to notice them. 
 
