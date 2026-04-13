@@ -1,8 +1,8 @@
-# Notebook
+# Research topics notebook
 
 **This is where the ideas form, before they're expanded into their own documents.**
 
-## Research topics
+---
 
 **UX as a diagnostic lens to infer organisational values, constraints, incentives, culture, and competence distribution.**
 
@@ -127,12 +127,17 @@ Recognising intrinsic rewards requires us to be introspective or employ metacogn
 
 - Keeping a journal is one way to turn intrinsic rewards into extrinsic ones: you can keep a log of what you learned or how you’ve grown. This makes them feel more tangible. 
 
-### Video games
+
+## Video games
 
 **Legacy identity pressure - historical competence as a psychological anchor**
 - How the mismatch between a historic skill level and record (win rate, hours played, games won, rank), and a player's current sense of competence, creates feelings of shame and frustration when the player is unable to perform at their previous level.
 
+---
+
 **The systemic hijacking of player intent through interruptive video game mechanics and unwanted encounter loops, and its effects on game pacing and the experience of traversal through a game world.**
+
+---
 
 **How do cooperative video game systems alter a player’s threat appraisal, and what design patterns preserve or dissolve fear when allies are present?**
 
@@ -142,13 +147,19 @@ Why do some games lose their horror elements when you have allies to help and pr
 
 A conversation about horror affordances in video games.
 
+---
+
 **How official ecosystems create psychological legitimacy for digital objects, and how objects outside those ecosystems feel ontologically incomplete.**
 
 - How and why emulated video game experiences feel real despite the unofficial hardware, while emulated data feels ‘fake’ when it sits outside the official ecosystem.
 
+---
+
 ### Competitive multiplayer video games
 
 **Cycling through the different versions of a map (dawn, day, dusk, and night) in a persistent 24/7 server as the hours go by in real life.**
+
+---
 
 **The lack of ‘villain’ role identity and the cost of cognitive switching in asymmetrical PvP/PvE video games**
 
