@@ -55,13 +55,6 @@
 
 ---
 
-**The systemic misalignment between human learning psychology and the engagement‑driven design of modern digital learning environments.**
-
-- How users mistake activity for progress, and how platforms often encourage that confusion.
-- The emotional fallout when a person’s identity as a ‘learner’ collides with the reality that they haven’t actually gained the competence they believed they were earning.
-
----
-
 **Mapping dependency chains and how inter-organisational availability shapes which industries can reduce working hours without loss of productivity.**
 
 - Temporal interdependence as a determinant of working hours. 
