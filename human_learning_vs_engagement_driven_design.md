@@ -7,6 +7,12 @@
 
 How does a language learner feel after using only a single language learning app for 1000 days but is still unable to hold a conversation or string a sentence together?
 
+---
+
+**This is a work in progress.**
+
+---
+
 ## Links
 
 [Lessons from 1,000 Days of Duolingo and Why I Still Can’t Speak](https://medium.com/@alewaco/lessons-from-1-000-days-of-duolingo-and-why-i-still-cant-speak-4219484ce206)
