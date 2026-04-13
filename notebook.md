@@ -62,18 +62,6 @@
 
 ---
 
-**When movement becomes the metric instead of problem-solving, creating the illusion of productivity**
-
-- How companies reward motion over outcomes and the human cost of maintaining the illusion.
-- What happens when metrics replace real work and workers become buffers for bad organisational design?
-- How impossible targets, superficial training (basically 'training theatre'), and coverage metrics hide structural failure.
-- The fallout of systems built to impress stakeholders rather than support workers.
-- How unrealistic expectations and training theatre create the illusion that workers are the problem.
-
-A conversation about field service engineers who are given far too many site visits and locations in a day, successfully visiting all of them while performing very few actual repairs, and are rewarded for movement rather than problem‑solving because they’re hitting KPIs. 
-
----
-
 **Mapping dependency chains and how inter-organisational availability shapes which industries can reduce working hours without loss of productivity.**
 
 - Temporal interdependence as a determinant of working hours. 
