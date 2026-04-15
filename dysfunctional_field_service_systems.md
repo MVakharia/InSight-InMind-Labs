@@ -66,13 +66,15 @@ The workforce is expected to absorb an impossible amount of information and meet
 
 Your actual skill and your output is mostly irrelevant: your presence is all that matters. 
 
-When a company sends untrained staff to fix machines, they’re really just using bodies to fill the gaps. They’re hoping workers will self-teach under pressure. 
+When a company sends untrained staff to fix machines, they’re really just using bodies to fill the gaps. 
+
+As an aside, they’re hoping workers will self-teach under pressure. 
 
 Coverage is prioritised over competence. Workers are bodies used to hit coverage metrics, not technicians. Coverage satisfies the client contract. 
 
 The role of the manager in this scenario isn’t to take care of their workers, it’s to keep workers from questioning impossible targets. It’s to redirect blame down the ladder. It’s to maintain the illusion that everything is fine. And it’s to punish anyone that exposes that everything is actually on fire. 
 
-That’s what bullying managers do. They keep the broken system running. 
+A bullying manager keeps the broken system running. 
 
 So what is an engineer actually supposed to do, in spite of the job description?
 
@@ -84,4 +86,4 @@ A worker who quietly travels between sites, repairs almost nothing, and doesn’
 
 ## Notes
 
-In a company where problem solving is valued, the typical target would be 80-90% for beginner engineers, with a company average above 95%. You'd receive 40 hours of training on 1-3 machines that are all similar in some way, followed by several weeks of shadowing a senior engineer: you'd tag along on dozens of callouts before getting your first repair job. 
+In a company where problem solving is valued, the typical first-time-fix target would be 80-90% for beginner engineers, with a company average above 95%. You'd receive 40 hours of training on 1-3 machines that are all similar in some way, followed by several weeks of shadowing a senior engineer: you'd tag along on dozens of callouts before getting your first repair job.
