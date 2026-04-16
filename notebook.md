@@ -17,7 +17,7 @@
 
 ---
 
-# Human learning vs the engagement-driven design of e-learning platforms
+## Human learning vs the engagement-driven design of e-learning platforms
 
 **The systemic misalignment between human learning psychology and the engagement‑driven design of modern digital learning environments.**
 
