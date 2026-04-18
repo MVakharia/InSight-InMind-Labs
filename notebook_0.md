@@ -4,6 +4,23 @@
 
 ---
 
+- Video games being delisted and made unavailable for purchase, why this happens, and how it can be prevented
+- The relationship between design, user experience, and behaviour
+- A short piece on my background and what I've been doing since university
+
+---
+
+**How 'browsing the internet' became a hobby**
+
+- The behavioural design of social media apps and content feeds, and how these websites can be designed for intentional usage rather than algorithm-driven usage.
+- Posts on r/nosurf where people talk about internet addiction and how it's ruining their life. 
+- When you stop surfing the internet as a hobby, you're left with a lot of free time, and that time needs to be filled somehow. 
+- Playing video games, watching TV shows, watching movies, reading books are all good substitutes for surfing the internet, **most of the time.**
+- We beat ourselves up for not having enough willpower to abstain from surfing, or not being motivated to do anything else, or for not having the attention span to focus on one single activity instead of clicking through the internet to find new information.
+- We need to create the kind of environment that supports abstinence from surfing the web, by changing the choices available to us. 
+
+---
+
 **UX as a diagnostic lens to infer organisational values, constraints, incentives, culture, and competence distribution.**
 
 - The withdrawal of responsibility in digital services, the externalisation of risk, and how design choices quietly communicate contempt for users. 
@@ -99,46 +116,6 @@ How does a language learner feel after using only a single language learning app
 **Stateless surfaces as a way to support identity switching, reduce cognitive friction, and restore access to analogue modes of attention.**
 
 - The benefits of completely clearing away a computer desk after every use, wall-mounting displays and removing peripherals, and resetting the space to zero so that it can serve other purposes and be more than "just a computer desk".
-
----
-
-**The consequences of a game being a sequel only in name, and what happens when you change the game mechanics completely.**
-
-- How do players feel when they go into a sequel expecting their mechanical skill to carry over, and they find that their muscle memory doesn’t have a home here?
-
----
-
-## Video games
-
-**Legacy identity pressure - historical competence as a psychological anchor**
-- How the mismatch between a historic skill level and record (win rate, hours played, games won, rank), and a player's current sense of competence, creates feelings of shame and frustration when the player is unable to perform at their previous level.
-
----
-
-**The systemic hijacking of player intent through interruptive video game mechanics and unwanted encounter loops, and its effects on game pacing and the experience of traversal through a game world.**
-
----
-
-**How do cooperative video game systems alter a player’s threat appraisal, and what design patterns preserve or dissolve fear when allies are present?**
-
-- How fear emerges from the interaction between social presence, environmental hostility, and mechanical vulnerability, and why some games’ horror is socially fragile while others’ is structurally resilient.
-
-Why do some games lose their horror elements when you have allies to help and protect you, other games keep their horror regardless of ally count, and yet other games gain horror elements when allies are removed?
-
-A conversation about horror affordances in video games.
-
----
-
-### Competitive multiplayer video games
-
-**Cycling through the different versions of a map (dawn, day, dusk, and night) in a persistent 24/7 server as the hours go by in real life.**
-
----
-
-**The lack of ‘villain’ role identity and the cost of cognitive switching in asymmetrical PvP/PvE video games**
-
-- What happens when the ‘villains’ are treated as obstacles to be killed by the heroes, instead of as the role they are? What happens when you can’t play them outside of PvP?
-- What happens to learning when a PvP game mode essentially forces you to play a different game every time you switch sides?
 
 ---
 
