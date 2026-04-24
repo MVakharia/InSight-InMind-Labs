@@ -36,20 +36,6 @@ This drives the core research questions:
 
 The goal is to design systems that **respect real cognitive limits** rather than **idealised** ones.
 
-## Who I am
-
-I'm **Michael**, and I'm based in the **UK**. 
-
-My background spans:
-- IT, ATM, and EPOS (cash register PC) technician work
-- Unity and web development
-- Retail and courier work
-- Professional decluttering and organising
-
-In 2025 I pivoted from web development to research into **psychology**, **cognition**, and **behaviour**, guided by a lifelong tendency to see the world through the lens of **systems thinking**.
-
-This lab is the container for that shift: a place to synthesise decades of **observations**, **ideas**, and **design instincts** into something **new**. 
-
 ## What this repository is for
 
 This GitHub space acts as:
@@ -59,4 +45,4 @@ This GitHub space acts as:
 - A **research log** for conceptual development
 - A **bridge** between raw thinking and polished publication. 
 
-It's **intentionally messy**, **exploratory**, and a **work in progress**, because that's where my most **meaningful work** begins.
+It's **intentionally messy**, **exploratory**, and a **work in progress**, because that's where the lab's most **meaningful work** begins.
