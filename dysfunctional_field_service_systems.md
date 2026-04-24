@@ -1,5 +1,11 @@
 # The break-fix contract from hell: dysfunctional field service systems in action
 
+Author: Michael Vakharia
+
+**This is a work in progress.**
+
+---
+
 **When movement becomes the metric instead of problem-solving, creating the illusion of productivity**
 
 - How companies reward motion over outcomes and the human cost of maintaining the illusion.
@@ -9,10 +15,6 @@
 - How unrealistic expectations and training theatre create the illusion that workers are the problem.
 
 A conversation about field engineers who are allocated far too many site visits in a day, successfully visiting all of them while performing very few actual repairs, and being rewarded for movement rather than problem‑solving because they’re hitting KPIs.
-
----
-
-**This is a work in progress.**
 
 ---
 
@@ -64,7 +66,7 @@ The training is theatre: a performance to absolve the managers of any blame and 
 
 The workforce is expected to absorb an impossible amount of information and meet equally impossible expectations. 
 
-Your actual skill and your output is mostly irrelevant: your presence is all that matters. 
+Your actual skill and your output is mostly irrelevant; your presence is all that matters. 
 
 When a company sends untrained staff to fix machines, they’re really just using bodies to fill the gaps. 
 
@@ -86,4 +88,4 @@ A worker who quietly travels between sites, repairs almost nothing, and doesn’
 
 ## Notes
 
-In a company where problem solving is valued, the typical first-time-fix target would be 80-90% for beginner engineers, with a company average above 95%. You'd receive 40 hours of training on 1-3 machines that are all similar in some way, followed by several weeks of shadowing a senior engineer: you'd tag along on dozens of callouts before getting your first repair job.
+In a company where problem solving is valued, the typical first-time-fix target would be 80-90% for beginner engineers, with a company average above 95%. You'd receive 40 hours of training on 1-3 machines that are all similar in some way, followed by several weeks of shadowing a senior engineer; you'd tag along on dozens of callouts before getting your first repair job.
