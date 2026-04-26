@@ -154,6 +154,8 @@ Conversely, player-led competitive multiplayer games support:
 
 All of which are both more fun and more aligned with how humans actually work.
 
+---
+
 ### Appendices, notes, and research questions
 
 #### The feeling of stepping into a familiar map in an unfamiliar mode
