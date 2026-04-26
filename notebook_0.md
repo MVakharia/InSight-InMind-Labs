@@ -4,9 +4,16 @@
 
 ---
 
-- Video games being delisted and made unavailable for purchase, why this happens, and how it can be prevented
-- The relationship between design, user experience, and behaviour
-- A short piece on my background and what I've been doing since university
+**Video games being delisted and made unavailable for purchase, why this happens, and how it can be prevented**
+
+A conversation about games that rely heavily on licensed content, and how the game cannot be legally sold once those licenses expire.
+
+- How a game can be developed from the ground up with built-in fallbacks so that once a license expires, the content is replaced in-game with fictional content, such as fictional brand names and replacement 3D assets. 
+- Once a game's licenses expire, the game could enter the 'legacy' phase of its life cycle and experience a rebirth, where all of the brand names are fake, comedic, or inspired by internet meme culture.
+
+---
+
+**The relationship between design, user experience, and behaviour**
 
 ---
 
@@ -14,10 +21,12 @@
 
 - The behavioural design of social media apps and content feeds, and how these websites can be designed for intentional usage rather than algorithm-driven usage.
 - Posts on r/nosurf where people talk about internet addiction and how it's ruining their life. 
-- When you stop surfing the internet as a hobby, you're left with a lot of free time, and that time needs to be filled somehow. 
+- When we stop surfing the internet as a hobby, we're left with a lot of free time, and that time needs to be filled somehow. 
 - Playing video games, watching TV shows, watching movies, reading books are all good substitutes for surfing the internet, **most of the time.**
-- We beat ourselves up for not having enough willpower to abstain from surfing, or not being motivated to do anything else, or for not having the attention span to focus on one single activity instead of clicking through the internet to find new information.
-- We need to create the kind of environment that supports abstinence from surfing the web, by changing the choices available to us. 
+- Beating ourselves up for not having enough willpower to abstain from surfing, or not being motivated to do anything else, or for not having the attention span to focus on one single activity instead of clicking through the internet to find new information.
+- Redesigning or creating the kind of environment that supports abstinence from surfing the web, by changing the choices available to us.
+- Third-party behavioural intervention apps can replace the standard social media and content feed apps, by allowing the user to browse intentionally rather than algorithmically. 
+- How software-based behavioural interventions can fall victim to enshittification, and how this can be avoided.
 
 ---
 
@@ -95,15 +104,15 @@ How does a language learner feel after using only a single language learning app
 
 ---
 
-**Mapping dependency chains and how inter-organisational availability shapes which industries can reduce working hours without loss of productivity.**
+**Mapping dependency chains and how inter-organisational availability shapes which industries can reduce or change working hours without loss of productivity.**
 
-- Temporal interdependence as a determinant of working hours. 
+- Temporal interdependence as a determinant of working hours.
 
 ---
 
 **The misalignment between what an educator expects their students to learn, and how students might think they need to master everything in an educational course, and how this contributes to overexertion and burnout**
 
-- The consequences of not knowing how much you need to learn. 
+- The consequences of not knowing how much you need to learn.
 
 ---
 
@@ -147,4 +156,4 @@ Intrinsic rewards require interpretation because they’re invisible and subtle.
 
 Recognising intrinsic rewards requires us to be introspective or employ metacognition, or both. 
 
-Keeping a journal is one way to turn intrinsic rewards into extrinsic ones: you can keep a log of what you learned or how you’ve grown. This makes them feel more tangible. 
+Turning intrinsic rewards into extrinsic ones by keeping a journal or log of what you learned or how you’ve grown, to make progression feel more tangible.
